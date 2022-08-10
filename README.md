@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou o Felipe</h1>
-- 🧑‍🎓 Ciência da Computação - Universidade Paulista (UNIP)
-- 👨‍💻 Estagiário na Afinder Solutions (https://www.afinder.com.br)
+<p align = "justify">- 🧑‍🎓 Ciência da Computação - Universidade Paulista (UNIP) </p>
+<p align = "justify">F- 👨‍💻 Estagiário na Afinder Solutions (https://www.afinder.com.br)</p>
 
 No momento estou estudando C#, Linux, Git e futurmente me tornar um Desenvolverdor C# e DevOps
 <h3 align="left">Connect with me:</h3>
