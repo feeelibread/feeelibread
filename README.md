@@ -1,6 +1,8 @@
 <h1 align="center">Olá! Eu sou o Felipe</h1>
-<h3 align="center">Um desenvolvedor C# cursando Ciências da Computação e estudando DevOps!</h3>
+- 🧑‍🎓 Ciência da Computação - Universidade Paulista (UNIP)
+- 👨‍💻 Estagiário na Afinder Solutions (https://www.afinder.com.br)
 
+No momento estou estudando C#, Linux, Git e futurmente me tornar um Desenvolverdor C# e DevOps
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/felipe-pichinine-a1592b200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-pichinine-a1592b200/" height="30" width="40" /></a>
