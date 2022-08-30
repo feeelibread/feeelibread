@@ -15,5 +15,5 @@ No momento estou estudando C#, Linux, Git e futurmente me tornar um Desenvolverd
 ## ⚡ GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feeelibread&show_icons=true&&theme=dark&locale=en&layout=compact" alt="feeelibread" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=feeelibread&show_icons=true&theme=dark&locale=en" alt="feeelibread" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feeelibread&show_icons=true&theme=dark&locale=en" alt="feeelibread" /></p>
 
