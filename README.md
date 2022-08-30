@@ -15,4 +15,4 @@ No momento estou estudando C#, Linux, Git e futurmente me tornar um Desenvolverd
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feeelibread&show_icons=true&&theme=dark&locale=en&layout=compact" alt="feeelibread" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feeelibread&show_icons=true&theme=dark&locale=en" alt="feeelibread" /></p>
-<img src = "breaking.gif" width = "325px" align = "right">
+<img src = "beaking.gif" width = "325px" align = "right">
