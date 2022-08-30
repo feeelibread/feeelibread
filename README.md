@@ -1,4 +1,5 @@
 <h1 align="center">Olá! Eu sou o Felipe</h1>
+<img src = "beaking.gif" width = "325px" align = "right">
 <p align = "justify">- 🧑‍🎓 Ciência da Computação - Universidade Paulista (UNIP) </p>
 <p align = "justify">- 👨‍💻 Estagiário na Afinder Solutions (https://www.afinder.com.br)</p>
 
@@ -15,4 +16,4 @@ No momento estou estudando C#, Linux, Git e futurmente me tornar um Desenvolverd
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feeelibread&show_icons=true&&theme=dark&locale=en&layout=compact" alt="feeelibread" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feeelibread&show_icons=true&theme=dark&locale=en" alt="feeelibread" /></p>
-<img src = "beaking.gif" width = "325px" align = "right">
+
