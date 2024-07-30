@@ -3,7 +3,7 @@
 <p align = "justify">- 🧑‍🎓 Formado em Ciência da Computação - Universidade Paulista (UNIP) </p>
 <p align = "justify">- 👨‍💻 Analista de Sistemas na Afinder Solutions (https://www.afinder.com.br)</p>
 
-No momento estou estudando C#, Linux, Git para futuramente me tornar um Desenvolverdor C# e DevOps
+No momento estou estudando C#, Linux, Git para futuramente me tornar um Desenvolverdor C#
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/felipe-pichinine-a1592b200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-pichinine-a1592b200/" height="30" width="40" /></a>
