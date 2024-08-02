@@ -12,11 +12,9 @@
 
 ###
 
-
-<div>
 <p align="left">🧑‍🎓 Formado em Ciência da Computação - Universidade Paulista (UNIP)<br>👨‍💻 Analista de Sistemas na Afinder Solutions (https://www.afinder.com.br)<br>📚 Estudando C#, PostgreSQL e outras ferramentas para me aprimorar ainda mais</p>
 <img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzEzNHV2dHpvN2k2ZnNwZXJpaWtheG1nZnYzd3Vwb2hpYmhjMm53ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l2JhqFQ2WVnmV71O8/giphy.gif"  />
-</div>
+
 
 ###
 
