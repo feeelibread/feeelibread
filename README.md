@@ -1,19 +1,61 @@
-<h1 align="center">Olá! Eu sou o Felipe</h1>
-<img src = "beaking.gif" width = "325px" align = "right">
-<p align = "justify">- 🧑‍🎓 Formado em Ciência da Computação - Universidade Paulista (UNIP) </p>
-<p align = "justify">- 👨‍💻 Analista de Sistemas na Afinder Solutions (https://www.afinder.com.br)</p>
+<h1 align="center">Olá!👋 Seja bem vindo ao meu porftólio</h1>
 
-No momento estou estudando C#, Linux, Git para futuramente me tornar um Desenvolverdor C#
-<h3 align="left">Redes Sociais:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/felipe-pichinine-a1592b200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-pichinine-a1592b200/" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+<br clear="both">
 
-## ⚡ GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feeelibread&show_icons=true&&theme=dark&locale=en&layout=compact" alt="feeelibread" /></p>
+<p align="center">Meu nome é Felipe, sou desenvolvedor C# de São Paulo - Brasil</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feeelibread&show_icons=true&theme=dark&locale=en" alt="feeelibread" /></p>
+###
 
+<h2 align="left">Sobre mim</h2>
+
+###
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzEzNHV2dHpvN2k2ZnNwZXJpaWtheG1nZnYzd3Vwb2hpYmhjMm53ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l2JhqFQ2WVnmV71O8/giphy.gif"  />
+<div>
+<br clear="both">
+
+<p align="left">🧑‍🎓 Formado em Ciência da Computação - Universidade Paulista (UNIP)<br>👨‍💻 Analista de Sistemas na Afinder Solutions (https://www.afinder.com.br)<br>📚 Estudando C#, PostgreSQL e outras ferramentas para me aprimorar ainda mais</p>
+</div>
+###
+
+<h2 align="left">Linguagens e ferramentas</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+</div>
+
+###
+
+<h2 align="left">Redes Sociais</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/felipe-pichinine-a1592b200/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Github Stats</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=feeelibread&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=feeelibread&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
