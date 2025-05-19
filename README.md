@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🧑‍🎓 Formado em Ciência da Computação - Universidade Paulista (UNIP)<br>👨‍💻 Analista de Sistemas na Afinder Solutions (https://www.afinder.com.br)<br>📚 Estudando C#, PostgreSQL e outras ferramentas para me aprimorar ainda mais</p>
+<p align="left">🧑‍🎓 Formado em Ciência da Computação - Universidade Paulista (UNIP)<br>👨‍💻 Analista de Dados Júnior na Assertiva Soluções (https://assertivasolucoes.com.br)<br>📚 Estudando C#, PostgreSQL e outras ferramentas para me aprimorar ainda mais</p>
 
 ###
 
