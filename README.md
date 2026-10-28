@@ -43,12 +43,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<div align="center"> 
-  <h2 align="left">Git Stats</h2>
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=feeelibread&show_icons=true&count_private=true&hide_border=true&title_color=D41b22&icon_color=D41b22&text_color=ffffff&bg_color=0d1117" alt="feeelibread's github stats" /> 
-  
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feeelibread&layout=compact&hide_border=true&title_color=D41b22&text_color=ffffff&bg_color=0d1117" alt="feeelibread's github stats"/>
-</div>
